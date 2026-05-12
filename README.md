@@ -34,3 +34,7 @@ python neurosymbolic_fol.py
 ```
 
 Expected output shows loss decreasing after training.
+
+## Additional Documentation
+
+- `docs/CANCO_BUILD_GUIDE.md`: Full production build guide for the CANCO platform.
